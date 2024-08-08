@@ -10,7 +10,7 @@
 
 - 👾 Currently on 9th grade, and plan to become an **Engineer**
 
-- 👨‍💻 Former **member** of [**chaBots**](https://github.com/chaBotsMX)
+- 👨‍💻 Current **member** of [**chaBots**](https://github.com/chaBotsMX)
 
 - 🥋 Fun Fact: I'm 1st grade Kup in **Tae Kwon Do**
 
