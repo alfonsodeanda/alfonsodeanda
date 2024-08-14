@@ -12,8 +12,6 @@
 
 - 👨‍💻 Current **member** of [**chaBots**](https://github.com/chaBotsMX)
 
-- 🥋 Fun Fact: I'm 1st grade Kup in **Tae Kwon Do**
-
 ---
 
 ## 🧰 Languages and Tools
