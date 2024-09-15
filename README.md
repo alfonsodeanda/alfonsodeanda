@@ -1,16 +1,7 @@
-<h1 align="center">Hey, I'm Alfonso 🦝</h1>
-<h3 align="center">I am a middle school student, passionate about robotics and technology.</h3>
+<h1 align="center">Alfonso 🦝</h1>
 
 ## About me:
-- 💡 I *always* enjoy learning something new
-
-- 🤖 I have been enrolled in multiple **robotics competetions**
-
 - 🐱‍💻 I have interest on **web design, competitive programming and robotics development**
-
-- 👾 Currently on 9th grade, and plan to become an **Engineer**
-
-- 👨‍💻 Current **member** of [**chaBots**](https://github.com/chaBotsMX)
 
 ---
 
@@ -30,5 +21,6 @@
 
 #
 
+# This is a video of myself:
 <img align="center" alt="monke" src="https://media1.tenor.com/m/a592WZrFduMAAAAC/missmlsery-baby-monkey.gif" />
           
