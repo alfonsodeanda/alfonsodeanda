@@ -1,10 +1,8 @@
-<h1 align="center">Alfonso 🦝</h1>
-
-- 🐱‍💻 I have interest on **web design, competitive programming and robotics development**
+- 🐱‍💻 I have interest on **robotics development, competitive programming and web design.**
 
 ---
 
-## 🧰 Languages and Tools
+## What I know:
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
